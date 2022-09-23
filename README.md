@@ -7,6 +7,4 @@ This repository is a part of a video tutorial on my YouTube channel: Code With S
 [YouTube playlist](https://www.youtube.com/watch?v=EoYFWkxXxXM&list=PLpyspNLjzwBn_Rc4Vxmucte1OiZANUtE0)
 
 ## Author
-This repository and video is created by CodeWithStein. Check out my website for more information.
-
-[Code With Stein - Website](https://codewithstein.com)
+Este proyecto esta creado por Stein y se le agregaron distintas funciones para comodidad personal, aun no esta terminando.
